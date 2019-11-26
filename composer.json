@@ -1,0 +1,22 @@
+{
+    "name": "arzeroid/laravel-model-encrytable",
+    "description": "A simple trait to encrypt attributes in the database",
+    "keywords": ["laravel", "eloquent", "database", "encrypt"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puthipong Sthitpattanapongsa",
+            "email": "puthi.sthit@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arzeroid\\LaravelModelEncryptable\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
