@@ -1,5 +1,5 @@
 {
-    "name": "arzeroid/laravel-model-encrytable",
+    "name": "arzeroid/laravel-model-encryptable",
     "description": "A simple trait to encrypt attributes in the database",
     "keywords": ["laravel", "eloquent", "database", "encrypt"],
     "type": "library",
@@ -18,5 +18,5 @@
             "Arzeroid\\LaravelModelEncryptable\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
