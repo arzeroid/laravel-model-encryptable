@@ -1,6 +1,6 @@
 # Laravel Model Encryptable
 
-Laravel Model Encryptable is a trait for Laravel Model that automatically encrypt attributes when save and decrypt attributes when retrieve
+A simple trait to encrypt attributes before saving to the database and to decrypt attributes before using their values.
 
 # Installation
 
